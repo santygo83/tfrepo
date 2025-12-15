@@ -12,5 +12,6 @@
   "license": "MIT",
   "dependencies": {
     "express": "^4.19.2",
-    "cors":    "cors": "^2.8.5"
+    "cors": "^2.8.5"
   }
+}
